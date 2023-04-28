@@ -1,0 +1,11 @@
+.myItem{
+    font-weight: bold;
+}
+
+#nameCondifenceItem{
+    display: flex;
+}
+
+.css-1i01dtb-MuiInputBase-root-MuiInput-root-MuiSelect-root{
+    width: 245px;
+}

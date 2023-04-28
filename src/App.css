@@ -1,0 +1,35 @@
+.main-container {
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 4rem;
+}
+
+.top-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.top-images img {
+  width: 100%;
+  height: fit-content;
+  margin: auto;
+}
+
+.main-content {
+  text-align: center;
+  margin: auto;
+}
+
+.bottom-images {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.bottom-images img {
+  max-width: 175px;
+  width: 100%;
+  height: fit-content;
+  margin: auto;
+}
