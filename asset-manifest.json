@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finalproject.github.io/static/css/main.17f8a34a.css",
+    "main.js": "/finalproject.github.io/static/js/main.595694ae.js",
+    "static/media/Picture1.png": "/finalproject.github.io/static/media/Picture1.5f9050cb523eee1623f8.png",
+    "static/media/varlogo.webp": "/finalproject.github.io/static/media/varlogo.996b125fbf6c5951abe6.webp",
+    "static/media/Picture3.png": "/finalproject.github.io/static/media/Picture3.5159abf3db255dcef0ee.png",
+    "index.html": "/finalproject.github.io/index.html",
+    "main.17f8a34a.css.map": "/finalproject.github.io/static/css/main.17f8a34a.css.map",
+    "main.595694ae.js.map": "/finalproject.github.io/static/js/main.595694ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f8a34a.css",
+    "static/js/main.595694ae.js"
+  ]
+}
